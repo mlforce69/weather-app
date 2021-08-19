@@ -1,0 +1,35 @@
+body {
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+
+.container {
+    max-width: 400px;
+}
+
+.sunset-sunrise-image {
+    width: 1rem;
+}
+
+.icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+  }
+
+
+
+/* favourite button */
+.fav-btn { 
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.current-position {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
